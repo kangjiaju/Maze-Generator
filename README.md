@@ -14,9 +14,11 @@ This project contains a maze generator that creates perfect mazes and correspond
 
 - **Interactive Gameplay**: Navigate the maze using arrow keys to move the ball from the starting point (green) to the endpoint (red).
 - **Maze Solution**: Generate and display a solution path using the A* algorithm by clicking the "Solution" button.
+- ![Image Alt Text](./images/solu.png "Optional Title")
 - **Customizable Size**: Users can specify the width and height of the maze before generation.
 - **Download Data**: Export the current maze and its solution as a file with the "Download" button.
 - **Batch Maze Generation**: Generate and export multiple mazes at once using the "Batch" button, ideal for dataset creation.
+-  ![Image Alt Text](./images/batch.png "Optional Title")
 
 ## Getting Started
 
