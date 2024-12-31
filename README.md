@@ -1,7 +1,7 @@
 # Maze-Generator
 Maze Generator is Designed for Embodied Intelligent Visual Navigation Tasks
 
-![Image Alt Text](./images/MG.png "Optional Title")
+![Image Alt Text](./images/MG.png "Homepage")
 
 ## Project Overview
 This project contains a maze generator that creates perfect mazes and corresponding solutions. The generated mazes and solutions are used as training data for robot 2D vision path planning tasks. The dataset provides complex maze environments that help robots improve path planning efficiency and accuracy.
@@ -17,11 +17,11 @@ You can directly run this project in your browser using the following link:
 ## How to Use
 - **Interactive Gameplay**: Navigate the maze using arrow keys to move the ball from the starting point (green) to the endpoint (red).
 - **Maze Solution**: Generate and display a solution path using the A* algorithm by clicking the "Solution" button.
-- ![Image Alt Text](./images/solu.png "Optional Title")
+- ![Image Alt Text](./images/solu.png "Solution")
 - **Customizable Size**: Users can specify the width and height of the maze before generation.
 - **Download Data**: Export the current maze and its solution as a file with the "Download" button.
 - **Batch Maze Generation**: Generate and export multiple mazes at once using the "Batch" button, ideal for dataset creation.
--  ![Image Alt Text](./images/batch.png "Optional Title")
+-  ![Image Alt Text](./images/batch.png "Batch Download")
 
 ## Contributing
 Contributions are welcome! If you’d like to add new features, improve functionality, or fix bugs, please open a pull request on GitHub.
