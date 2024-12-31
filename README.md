@@ -6,7 +6,7 @@ Maze Generator is Designed for Embodied Intelligent Visual Navigation Tasks
 ## Project Overview
 This project contains a maze generator that creates perfect mazes and corresponding solutions. The generated mazes and solutions are used as training data for robot 2D vision path planning tasks. The dataset provides complex maze environments that help robots improve path planning efficiency and accuracy.
 
-Developed by **Jiaju Kang** of **Institute for Artificial Intelligence and Future Networks in Beijing Normal University **.
+Developed by **Jiaju Kang** of **Institute for Artificial Intelligence and Future Networks in Beijing Normal University**.
 
 
 ## Getting Started
