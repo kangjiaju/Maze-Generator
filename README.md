@@ -7,10 +7,13 @@ This project contains a maze generator that creates perfect mazes and correspond
 
 ## Features
 
-- **Maze Generation**: Generates perfect mazes that ensure each maze has a unique solution.
-- **Path Solution**: Automatically computes the shortest path from the start to the end for each generated maze.
-- **Data Format**: The maze and path data are provided in easily processable formats (e.g., JSON, CSV), making it convenient for machine learning training.
-- **Configurability**: Users can set maze size, start and end positions, and other parameters to customize maze generation rules.
+## Features
+
+- **Interactive Gameplay**: Navigate the maze using arrow keys to move the ball from the starting point (green) to the endpoint (red).
+- **Maze Solution**: Generate and display a solution path using the A* algorithm by clicking the "Solution" button.
+- **Customizable Size**: Users can specify the width and height of the maze before generation.
+- **Download Data**: Export the current maze and its solution as a file with the "Download" button.
+- **Batch Maze Generation**: Generate and export multiple mazes at once using the "Batch" button, ideal for dataset creation.
 
 ## Getting Started
 
